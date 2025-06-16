@@ -1,7 +1,0 @@
-{
-  "name": "@company/apps-mobile-app",
-  "version": "1.0.0",
-  "dependencies": {
-    "nonexistent-apps-mobile-app-dep-12345": "^1.0.0"
-  }
-}

@@ -1,8 +1,0 @@
-{
-    "auths": {
-        "private-docker.company.com": {
-            "auth": "base64-encoded-credentials"
-        }
-    },
-    "credsStore": "desktop"
-}

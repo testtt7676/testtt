@@ -1,8 +1,0 @@
-{
-  "name": "@company/frontend-packages-ui-kit",
-  "version": "1.0.0",
-  "dependencies": {
-    "react": "^18.0.0",
-    "nonexistent-frontend-packages-ui-kit-dep-12345": "^1.0.0"
-  }
-}

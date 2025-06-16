@@ -1,7 +1,0 @@
-[package]
-name = "crates-api"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-nonexistent-crates-api-dep-12345 = "1.0.0"

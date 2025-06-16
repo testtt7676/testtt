@@ -1,5 +1,0 @@
-# Requirements for backend/services/api
-fastapi>=0.68.0
-uvicorn>=0.15.0
-nonexistent-backend-services-api-service-12345>=1.0.0
-fake-backend-services-api-lib-12345>=2.0.0
