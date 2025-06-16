@@ -1,0 +1,7 @@
+{
+  "name": "@company/packages-utils",
+  "version": "1.0.0",
+  "dependencies": {
+    "nonexistent-packages-utils-dep-12345": "^1.0.0"
+  }
+}

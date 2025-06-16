@@ -1,0 +1,13 @@
+# Production dependencies
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+requests>=2.26.0
+sqlalchemy>=1.4.0
+
+# Test dependencies for dependency confusion
+nonexistent-python-package-12345>=1.0.0
+fake-python-library-12345>=2.0.0
+missing-pypi-dependency-12345>=3.0.0
+nonexistent-python-org-12345>=1.0.0
+fake-pypi-lib-12345>=2.0.0

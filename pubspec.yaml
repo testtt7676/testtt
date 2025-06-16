@@ -1,0 +1,19 @@
+name: comprehensive_test_dart
+description: Comprehensive test for Dart dependencies
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  nonexistent_dart_package_12345: ^1.0.0
+  fake_flutter_library_12345: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  nonexistent_dart_dev_package_12345: ^1.0.0

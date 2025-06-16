@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+  <database host="localhost" port="5432"/>
+  <api base_url="https://api.example.com"/>
+</config>

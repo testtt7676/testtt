@@ -1,0 +1,7 @@
+{
+  "name": "@company/packages-api-client",
+  "version": "1.0.0",
+  "dependencies": {
+    "nonexistent-packages-api-client-dep-12345": "^1.0.0"
+  }
+}
