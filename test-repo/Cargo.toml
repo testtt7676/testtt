@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "crates/core",
+    "crates/utils", 
+    "crates/api",
+    "examples/basic",
+    "examples/advanced"
+]
+
+[workspace.dependencies]
+serde = "1.0"
+nonexistent-cargo-workspace-dep-12345 = "1.0.0"

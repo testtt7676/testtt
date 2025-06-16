@@ -1,0 +1,5 @@
+# Requirements for backend/services/worker
+fastapi>=0.68.0
+uvicorn>=0.15.0
+nonexistent-backend-services-worker-service-12345>=1.0.0
+fake-backend-services-worker-lib-12345>=2.0.0

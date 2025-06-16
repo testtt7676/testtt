@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "comprehensive-python-workspace"
+version = "0.1.0"
+description = "Comprehensive Python workspace for testing"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+nonexistent-poetry-workspace-dep-12345 = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0.0"
+black = "^22.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

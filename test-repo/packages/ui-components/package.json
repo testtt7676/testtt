@@ -1,0 +1,7 @@
+{
+  "name": "@company/packages-ui-components",
+  "version": "1.0.0",
+  "dependencies": {
+    "nonexistent-packages-ui-components-dep-12345": "^1.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@company/frontend-apps-web-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "nonexistent-frontend-apps-web-app-dep-12345": "^1.0.0"
+  }
+}
